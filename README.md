@@ -22,13 +22,19 @@ Advanced-Data-Structures-and-Algorithms-Foundations/
 ├── README.md
 ├── LICENSE
 ├── Bit Manipulation/
-│   └── Number of 1 Bits/
-│       ├── README.md
-│       └── Solution.java
+│ ├── Number of 1 Bits/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ ├── Different Bits Sum Pairwise/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ └── Interesting Array/
+│ ├── README.md
+│ └── Solution.java
 ├── Modular Arithmetic & GCD/
-│   └── Count Factors 2/
-│       ├── README.md
-│       └── Solution.java
+│ └── Count Factors 2/
+│ ├── README.md
+│ └── Solution.java
 ├── Arrays Techniques/
 ├── Arrays 1D/
 ├── Arrays 2D/
@@ -42,12 +48,10 @@ Advanced-Data-Structures-and-Algorithms-Foundations/
 | Topic | Problem | Difficulty |
 |---|---|---|
 | Bit Manipulation | [Number of 1 Bits](<./Bit Manipulation/Number of 1 Bits>) | Medium |
+| Bit Manipulation | [Different Bits Sum Pairwise](<./Bit Manipulation/Different Bits Sum Pairwise>) | Medium |
+| Bit Manipulation | [Interesting Array](<./Bit Manipulation/Interesting Array>) | Easy |
 | Modular Arithmetic & GCD | [Count Factors 2](<./Modular Arithmetic & GCD/Count Factors 2>) | Easy |
 
 ## Tech Stack
 
 - Java
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.

@@ -35,8 +35,20 @@ Advanced-Data-Structures-and-Algorithms-Foundations/
 │ └── Count Factors 2/
 │ ├── README.md
 │ └── Solution.java
-├── Arrays Techniques/
 ├── Arrays 1D/
+│ ├── Add One To Number/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ ├── Continuous Sum Query/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ ├── Rain Water Trapped/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ └── Max Sum Contiguous Subarray/
+│ ├── README.md
+│ └── Solution.java
+├── Arrays Techniques/
 ├── Arrays 2D/
 ├── Recursion/
 ├── Hashing/
@@ -51,6 +63,10 @@ Advanced-Data-Structures-and-Algorithms-Foundations/
 | Bit Manipulation | [Different Bits Sum Pairwise](<./Bit Manipulation/Different Bits Sum Pairwise>) | Medium |
 | Bit Manipulation | [Interesting Array](<./Bit Manipulation/Interesting Array>) | Easy |
 | Modular Arithmetic & GCD | [Count Factors 2](<./Modular Arithmetic & GCD/Count Factors 2>) | Easy |
+| Arrays 1D | [Add One To Number](<./Arrays 1D/Add One To Number>) | Hard |
+| Arrays 1D | [Continuous Sum Query](<./Arrays 1D/Continuous Sum Query>) | Medium |
+| Arrays 1D | [Rain Water Trapped](<./Arrays 1D/Rain Water Trapped>) | Medium |
+| Arrays 1D | [Max Sum Contiguous Subarray](<./Arrays 1D/Max Sum Contiguous Subarray>) | Medium |
 
 ## Tech Stack
 

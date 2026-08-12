@@ -50,6 +50,21 @@ Advanced-Data-Structures-and-Algorithms-Foundations/
 │ └── Solution.java
 ├── Arrays Techniques/
 ├── Arrays 2D/
+│ ├── Search in a Row Wise and Column Wise Sorted Matrix/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ ├── Sum of All Submatrices/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ ├── First Missing Integer/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ ├── Row with Maximum Number of Ones/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ └── Minimum Swaps/
+│ ├── README.md
+│ └── Solution.java
 ├── Recursion/
 ├── Hashing/
 └── Sorting/
@@ -67,6 +82,11 @@ Advanced-Data-Structures-and-Algorithms-Foundations/
 | Arrays 1D | [Continuous Sum Query](<./Arrays 1D/Continuous Sum Query>) | Medium |
 | Arrays 1D | [Rain Water Trapped](<./Arrays 1D/Rain Water Trapped>) | Medium |
 | Arrays 1D | [Max Sum Contiguous Subarray](<./Arrays 1D/Max Sum Contiguous Subarray>) | Medium |
+| Arrays 2D | [Search in a Row Wise and Column Wise Sorted Matrix](<./Arrays 2D/Search in a Row Wise and Column Wise Sorted Matrix>) | Medium |
+| Arrays 2D | [Sum of All Submatrices](<./Arrays 2D/Sum of All Submatrices>) | Medium |
+| Arrays 2D | [First Missing Integer](<./Arrays 2D/First Missing Integer>) | Hard |
+| Arrays 2D | [Row with Maximum Number of Ones](<./Arrays 2D/Row with Maximum Number of Ones>) | Easy |
+| Arrays 2D | [Minimum Swaps](<./Arrays 2D/Minimum Swaps>) | Medium |
 
 ## Tech Stack
 

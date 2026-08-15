@@ -45,10 +45,22 @@ Advanced-Data-Structures-and-Algorithms-Foundations/
 │ ├── Rain Water Trapped/
 │ │ ├── README.md
 │ │ └── Solution.java
-│ └── Max Sum Contiguous Subarray/
+│ ├── Max Sum Contiguous Subarray/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ └── Product Except Self/
 │ ├── README.md
 │ └── Solution.java
 ├── Arrays Techniques/
+│ ├── Longest Subarray Sliding Window/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ ├── Next Permutation/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ └── Merge Sorted Overlapping Intervals/
+│ ├── README.md
+│ └── Solution.java
 ├── Arrays 2D/
 │ ├── Search in a Row Wise and Column Wise Sorted Matrix/
 │ │ ├── README.md
@@ -62,7 +74,10 @@ Advanced-Data-Structures-and-Algorithms-Foundations/
 │ ├── Row with Maximum Number of Ones/
 │ │ ├── README.md
 │ │ └── Solution.java
-│ └── Minimum Swaps/
+│ ├── Minimum Swaps/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ └── Boundary in Clockwise Direction/
 │ ├── README.md
 │ └── Solution.java
 ├── Recursion/
@@ -82,11 +97,16 @@ Advanced-Data-Structures-and-Algorithms-Foundations/
 | Arrays 1D | [Continuous Sum Query](<./Arrays 1D/Continuous Sum Query>) | Medium |
 | Arrays 1D | [Rain Water Trapped](<./Arrays 1D/Rain Water Trapped>) | Medium |
 | Arrays 1D | [Max Sum Contiguous Subarray](<./Arrays 1D/Max Sum Contiguous Subarray>) | Medium |
+| Arrays 1D | [Product Except Self](<./Arrays 1D/Product Except Self>) | Medium |
+| Arrays Techniques | [Longest Subarray Sliding Window](<./Arrays Techniques/Longest Subarray Sliding Window>) | Hard |
+| Arrays Techniques | [Next Permutation](<./Arrays Techniques/Next Permutation>) | Hard |
+| Arrays Techniques | [Merge Sorted Overlapping Intervals](<./Arrays Techniques/Merge Sorted Overlapping Intervals>) | Hard |
 | Arrays 2D | [Search in a Row Wise and Column Wise Sorted Matrix](<./Arrays 2D/Search in a Row Wise and Column Wise Sorted Matrix>) | Medium |
 | Arrays 2D | [Sum of All Submatrices](<./Arrays 2D/Sum of All Submatrices>) | Medium |
 | Arrays 2D | [First Missing Integer](<./Arrays 2D/First Missing Integer>) | Hard |
 | Arrays 2D | [Row with Maximum Number of Ones](<./Arrays 2D/Row with Maximum Number of Ones>) | Easy |
 | Arrays 2D | [Minimum Swaps](<./Arrays 2D/Minimum Swaps>) | Medium |
+| Arrays 2D | [Boundary in Clockwise Direction](<./Arrays 2D/Boundary in Clockwise Direction>) | Medium |
 
 ## Tech Stack
 

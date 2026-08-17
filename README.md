@@ -28,7 +28,31 @@ Advanced-Data-Structures-and-Algorithms-Foundations/
 │ ├── Different Bits Sum Pairwise/
 │ │ ├── README.md
 │ │ └── Solution.java
-│ └── Interesting Array/
+│ ├── Interesting Array/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ ├── Single Number/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ ├── Single Number III/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ ├── Unset ith Bit/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ ├── Toggle ith Bit/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ ├── Set Bit/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ ├── Find nth Magic Number/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ ├── Help from Sam/
+│ │ ├── README.md
+│ │ └── Solution.java
+│ └── Unset x Bits from Right/
 │ ├── README.md
 │ └── Solution.java
 ├── Modular Arithmetic & GCD/
@@ -92,6 +116,14 @@ Advanced-Data-Structures-and-Algorithms-Foundations/
 | Bit Manipulation | [Number of 1 Bits](<./Bit Manipulation/Number of 1 Bits>) | Medium |
 | Bit Manipulation | [Different Bits Sum Pairwise](<./Bit Manipulation/Different Bits Sum Pairwise>) | Medium |
 | Bit Manipulation | [Interesting Array](<./Bit Manipulation/Interesting Array>) | Easy |
+| Bit Manipulation | [Single Number](<./Bit Manipulation/Single Number>) | Easy |
+| Bit Manipulation | [Single Number III](<./Bit Manipulation/Single Number III>) | Medium |
+| Bit Manipulation | [Unset ith Bit](<./Bit Manipulation/Unset ith Bit>) | Easy |
+| Bit Manipulation | [Toggle ith Bit](<./Bit Manipulation/Toggle ith Bit>) | Easy |
+| Bit Manipulation | [Set Bit](<./Bit Manipulation/Set Bit>) | Easy |
+| Bit Manipulation | [Find nth Magic Number](<./Bit Manipulation/Find nth Magic Number>) | Medium |
+| Bit Manipulation | [Help from Sam](<./Bit Manipulation/Help from Sam>) | Medium |
+| Bit Manipulation | [Unset x Bits from Right](<./Bit Manipulation/Unset x Bits from Right>) | Medium |
 | Modular Arithmetic & GCD | [Count Factors 2](<./Modular Arithmetic & GCD/Count Factors 2>) | Easy |
 | Arrays 1D | [Add One To Number](<./Arrays 1D/Add One To Number>) | Hard |
 | Arrays 1D | [Continuous Sum Query](<./Arrays 1D/Continuous Sum Query>) | Medium |

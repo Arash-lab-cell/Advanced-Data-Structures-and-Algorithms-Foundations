@@ -4,7 +4,7 @@ Java implementation of Advanced DSA Foundations coursework — arrays (1D/2D) an
 
 ## Progress
 
-**26 problems** solved across **5 of 8** topics. Each problem has its own `README.md` (problem statement, approach, dry run, complexity analysis, key learnings) and a `Solution.java` file.
+**33 problems** solved across **5 of 8** topics. Each problem has its own `README.md` (problem statement, approach, dry run, complexity analysis, key learnings) and a `Solution.java` file.
 
 ## Topics Covered
 
@@ -13,7 +13,7 @@ Java implementation of Advanced DSA Foundations coursework — arrays (1D/2D) an
 | Arrays 1D | 5 |
 | Arrays 2D | 6 |
 | Arrays Techniques | 3 |
-| Bit Manipulation | 11 |
+| Bit Manipulation | 18 |
 | Modular Arithmetic & GCD | 1 |
 | Recursion | — |
 | Hashing | — |
@@ -60,7 +60,7 @@ Java implementation of Advanced DSA Foundations coursework — arrays (1D/2D) an
 </details>
 
 <details>
-<summary><strong>Bit Manipulation</strong> (11)</summary>
+<summary><strong>Bit Manipulation</strong> (18)</summary>
 
 | Problem | Difficulty |
 |---|---|
@@ -75,6 +75,13 @@ Java implementation of Advanced DSA Foundations coursework — arrays (1D/2D) an
 | [Find nth Magic Number](<./Bit Manipulation/Find nth Magic Number>) | Medium |
 | [Help from Sam](<./Bit Manipulation/Help from Sam>) | Medium |
 | [Unset x Bits from Right](<./Bit Manipulation/Unset x Bits from Right>) | Medium |
+| [Single Number II](<./Bit Manipulation/Single Number II>) | Hard |
+| [Finding Good Days](<./Bit Manipulation/Finding Good Days>) | Easy |
+| [Maximum AND Pair](<./Bit Manipulation/Maximum AND Pair>) | Hard |
+| [Subarrays with OR 1](<./Bit Manipulation/Subarrays with OR 1>) | Hard |
+| [Min XOR value](<./Bit Manipulation/Min XOR value>) | Hard |
+| [Strange Equality](<./Bit Manipulation/Strange Equality>) | Hard |
+| [Subarray OR](<./Bit Manipulation/Subarray OR>) | Hard |
 
 </details>
 
